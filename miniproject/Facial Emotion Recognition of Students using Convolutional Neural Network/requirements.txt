@@ -1,0 +1,8 @@
+numpy==1.15.4
+opencv-python==4.1.1.26
+opencv-contrib-python==4.3.0.36
+h5py
+tensorflow==1.14.0
+tflearn==0.3.2
+keras==2.2.4
+ 
